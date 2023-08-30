@@ -1,0 +1,82 @@
+  ul li{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    display: inline;
+}
+
+.form-control{
+
+border: 2px solid rgb(247, 46, 15);
+border-radius: 5px;
+height: 30px;
+width: 150px;
+background-color:transparent;
+}
+form{
+font-size: 10px;
+ height: 400px;
+width: 400px;
+box-sizing: border-box;
+border-radius: 10px;
+border: 5px solid white;
+background-color: transparent;
+text-align: center;
+border-radius: 5px;
+position: relative;
+left:520px;
+top:60px;
+box-shadow: 0px 0px 10px 5px black;
+
+}
+.form-label{
+    font-size: 20px;
+    color: white;
+    font-family: 1000px;
+}
+form h1{
+    font-size: 40px;
+    color:white;
+    font-weight: 900px;
+}
+body{
+    background-image: url(imh1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn{
+    height: 30px;
+width: 100px;
+ border-radius: 10px;
+    background-image: linear-gradient(red,rgb(237, 158, 10));
+}
+.container{
+    padding:10px;
+    margin: 0;
+  
+  
+
+}
+.card-deck{
+border:2px solid  black;
+height: 450px;
+width: 400px;
+padding:50px;
+border-radius: 50px;
+box-shadow: 0 1px 1px rgba(0,0,0,0.15), 0 2px 2px rgba(0,0,0,0.15), 0 4px 4px rgba(0,0,0,0.15), 0 8px 8px rgba(0,0,0,0.15);
+background-color:white;
+
+}
+
+.container h1{
+    font-family: 'Gill Sans';
+    font-size: 50px;
+    text-shadow: 2px 2px 5px rgb(244, 39, 80);
+    color: white;
+}
+.foot{
+    background-color: black;
+    color: white;
+}
+.fq{
+    background-image: linear-gradient(rgb(235, 239, 21),rgb(239, 40, 76));}
